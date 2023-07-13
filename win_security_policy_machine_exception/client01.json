@@ -1,0 +1,11 @@
+{
+  "id": "client01",
+  "Configure SMB v1 client driver": {
+    "override_value": "2",
+    "exception_valid_until":  "2024-01-02"
+  },
+  "Configure SMB v1 server": {
+    "override_value": "1",
+    "exception_valid_until":  "2024-01-02"
+  }
+}
